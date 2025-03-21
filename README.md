@@ -1,2 +1,2 @@
-# bookroom-mcp
-About API for MCP. 
+# BookRoom Agents
+About API for Agents.
